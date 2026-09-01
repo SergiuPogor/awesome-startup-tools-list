@@ -102,6 +102,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Humanitec - https://humanitec.com
 
 ### AI-based Online Development Platforms/IDEs
+- Base44 (AI based) - https://base44.com
 - Bolt.new (AI baseed) - https://bolt.new
 - Lovable (AI based) - https://lovable.dev
 - Replit (AI based) - https://replit.com
