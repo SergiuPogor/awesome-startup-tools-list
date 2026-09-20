@@ -142,7 +142,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Sauce Labs - https://saucelabs.com/
 - Code Climate - https://codeclimate.com
 
-### Email Service for Developers
+### Email Services
 - Resend - https://resend.com/
 - Brevo (Ex Sendinblue) - https://www.brevo.com/
 - MailGun - https://www.mailgun.com , https://www.mailgun.com/google
