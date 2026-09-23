@@ -142,6 +142,11 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Sauce Labs - https://saucelabs.com/
 - Code Climate - https://codeclimate.com
 
+### Data
+- Estuary - https://estuary.dev/
+- MotherDuck - https://motherduck.com/
+- Supabase - https://supabase.com/
+
 ### Email Services
 - Resend - https://resend.com/
 - Brevo (Ex Sendinblue) - https://www.brevo.com/
